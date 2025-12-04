@@ -43,8 +43,7 @@ This README covers installation, testing, running, and usage for local developme
 1) Clone the repo:
 
 ```powershell
-git clone <your-repo-url> final
-cd final
+git clone https://github.com/19935541831/Trackless.git
 ```
 
 2) Backend (Python)
