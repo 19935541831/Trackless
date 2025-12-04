@@ -99,6 +99,3 @@ npx hardhat test
 ---
 
 
-## License
-
-Please check repository root for license information. If none exists, add one before distribution.
